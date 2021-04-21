@@ -1,0 +1,8 @@
+com/majorProject/app/salesman/Solver.class
+com/majorProject/app/spark/SparkFacade.class
+com/majorProject/app/salesman/City.class
+com/majorProject/app/salesman/Route.class
+com/majorProject/app/salesman/RouteUpdate.class
+com/majorProject/app/App.class
+com/majorProject/app/salesman/JsonCity.class
+com/majorProject/app/spark/Work.class
